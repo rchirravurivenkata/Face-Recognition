@@ -8,8 +8,8 @@ This algorithm uses eigenfaces produced from principal component analysis.
 
 #### Mandatory arguments
 
-•	*****training_directory***** – Folder path of training images  need to be inputted.
-•	*****test_directory*****- Folder path of test images need to inputted. 
+******training_directory****** – Folder path of training images  need to be inputted.
+******test_directory****** - Folder path of test images need to inputted. 
 
 Note: The output files are stored in a new folder (Results_face_recognize) created by the algorithm in the working directory.
 
