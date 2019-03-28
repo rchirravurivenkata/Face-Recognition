@@ -1,8 +1,8 @@
 ## Introduction 
 
-There are multiple methods in which facial recognition systems work, but in general, they work by comparing selected facial features from given image with faces within a database.
+There are multiple methods in which facial recognition systems work, but in general, they work by comparing selected facial features from a given face image within a database.
 
-This algorithm uses eigenfaces produced from principal component analysis. 
+This algorithm uses eigenfaces yeilded using principal component analysis. 
 
 
 
