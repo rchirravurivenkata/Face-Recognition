@@ -20,3 +20,5 @@ This algorithm uses eigenfaces yeilded using principal component analysis.
 
 The output folder created by the algorithm will contain the average face in its original .pgm format, top 20 eigenvectors in .csv format and results of the predictions in a tabular .csv format. 
 
+
+
